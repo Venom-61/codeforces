@@ -1,4 +1,4 @@
-# How to Reach Candiate Master in Codeforces
+# How to Reach <span style="color:violet">Candiate Master</span> in Codeforces
 
 ## 1. Number Theory
 
