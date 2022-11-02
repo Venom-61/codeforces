@@ -48,7 +48,7 @@
 - Connected Components
 - Directed Graphs Basics
 - 1 Minimum Spanning Tree Algorithm
-- * Disjoint Set Union Basics
+- *Disjoint Set Union Basics
 
 ## 7. Topics **NOT** to do
 
